@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jemish-debug
 - 👀 I’m interested in Backend Engineer
-- 🌱 I’m currently learning Python and AWS
+- 🌱 I’m currently learning AI/ML, DevOps and Network Security
 - 💞️ I’m looking to collaborate on Web Dev, C, C++, Java, Python
 - 📫 How to reach me jemishkoladiya@gmail.com
 - 😄 Pronouns: He/Him
