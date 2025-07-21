@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jemish Koladiya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jemish-debug&label=Profile%20views&color=0e75b6&style=flat" alt="jemish-debug" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jemishkoladiya@gmail.com**
 
-- ⚡ Fun fact **oSometimes I love this all and Sometimes I hate it**
+- ⚡ Fun fact **Sometimes I love this all and Sometimes I hate it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
