@@ -1,19 +1,69 @@
-# 💫 About Me:
-<br><br>    🌱 I’m currently learning AI/ML, DevOps and Network Security<br><br>    👯 I’m looking to collaborate on Web Dev, C, C++, Java, Python<br><br>    📫 How to reach me jemishkoladiya@gmail.com<br><br>    ⚡ Fun fact Sometimes I love this all and Sometimes I hate it<br>
+<h1 align="center">Hey there 👋, I'm Jemish Koladiya</h1>
+<h3 align="center">🚀 Aspiring Backend Engineer | AI/ML Developer | MERN Stack Enthusiast</h3>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jemish_koladiya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jemish-koladiya-51a74b351/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jemishkoladiya@gmail.com) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jemish-debug&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Jemish-debug&theme=synthwave&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jemish-debug&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Jemish-debug&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jemish-debug&label=Profile%20views&color=0e75b6&style=flat" alt="Jemish-debug" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Jemish-debug&icon=0&color=10)](https://visitcount.itsvg.in)
+
+### 💫 About Me
+I’m an IT student passionate about **building intelligent systems and scalable backend architectures**.  
+My journey revolves around exploring how **machine learning and software engineering** can come together to make technology smarter, faster, and more human.  
+
+💻 I love experimenting with new frameworks, exploring AI models, and developing projects that bridge creativity with logic.  
+🌱 Currently learning **system design, cloud deployment, and advanced ML concepts**.  
+🎯 Goal: To build **backend systems and AI-driven tools** that make complexity feel simple.  
+⚡ Fun fact: I debug faster with coffee ☕ and music 🎧.
+
+---
+
+### 🧠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nodejs,express,mongodb,flask,tensorflow,pytorch,git,docker,aws" />
+</p>
+
+---
+
+### 🛠 Featured Projects
+- 🧩 **[MBTI Personality Prediction Web App](https://github.com/Jemish-debug/MBTI-Personality-Test)**  
+  Predicts Myers-Briggs personality types using NLP and machine learning models.  
+- 📰 **[ZapNews: Personalized News Platform](https://github.com/Jemish-debug/Zapnews)**  
+  A Flask-based web app that recommends real-time, category-wise news articles.  
+- 🏗️ **[Civil Contractor Management System](https://github.com/Jemish-debug/Civil-Contractor-Management)**  
+  A Java-based prototype that automates contractor-client workflows with GST billing.
+
+---
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/jemish-koladiya-51a74b351/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jemishkoladiya@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Jemish-debug">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jemish-debug&theme=tokyonight" alt="Jemish-debug" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jemish-debug&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jemish-debug&layout=compact&theme=tokyonight" alt="languages" />
+</p>
+
+---
+
+### 🧩 Quote I Live By
+> *“The best way to predict the future is to create it.”* — Alan Kay
+
+---
+
+<p align="center">✨ Crafted with passion by <b>Jemish Koladiya</b> ✨</p>
