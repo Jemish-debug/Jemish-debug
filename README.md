@@ -20,7 +20,7 @@ My journey revolves around exploring how **machine learning and software enginee
 
 ### 🧠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,nodejs,express,mongodb,mysql,flask,tensorflow,pytorch,git,docker,jenkins,aws,ai" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,nodejs,express,mongodb,mysql,flask,tensorflow,pytorch,git,docker,jenkins,ansible,aws,ai" />
 </p>
 
 ---
